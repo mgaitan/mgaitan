@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin, but my family and friends call me just Tin. I'm a seasoned python developer (altought my linkedin profile says I'm still a "semi junior"). I'm from Argnetina. 
+I'm Martin, but my family and friends call me just Tin. I'm a seasoned python developer (altought my linkedin profile says I'm still a "semi junior"). I'm from Argentina. 
 Interested in several topics, including open data, web development, politics, history, writing, blockchain, sports and more.  
 
 Currently enjoying the journey as a [hero](https://shiphero.com), and not looking for a new position. 
