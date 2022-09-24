@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 I'm Martin, but my family and friends call me just Tin. I'm a seasoned python developer (altought my linkedin profile says I'm still a "semi junior"). I'm from Argentina. 
-Interested in several topics, including open data, web development, politics, history, writing, blockchain, sports and more.  
+Interested in several topics, including open data, web development, dev tools, politics, history, writing, gardening, sports and more.  
 
 Currently enjoying the journey as a [hero](https://shiphero.com), and not looking for a new position. 
 
 
-- 📫 My email: [gaitan@gmail.com](mailto:gaitan@gmail.com)
 - 💬 Twitter: [@tin_nqn_](https://twitter.com/tin_nqn_?lang=en) 
 
 
